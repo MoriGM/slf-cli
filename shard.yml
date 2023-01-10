@@ -1,0 +1,13 @@
+name: slf-cli
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  slf-cli:
+    main: src/slf-cli.cr
+
+crystal: 1.7.0
+
+license: MIT
