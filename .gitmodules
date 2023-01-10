@@ -1,0 +1,3 @@
+[submodule "slftool.github.io"]
+	path = slftool.github.io
+	url = https://github.com/slftool/slftool.github.io.git
